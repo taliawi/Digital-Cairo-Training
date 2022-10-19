@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Duke International Student Center sees new location, leadership and rebranding</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Example modern English news article for teaching purposes.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Copied from the Duke Chronicle, <ptr target="https://www.dukechronicle.com/article/2022/09/duke-international-student-center-new-location-leadership-rebranding-international-house"/>.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Duke International Student Center sees new location, leadership and rebranding</head>
+            <byline>
+               <docAuthor>Jothi Gupta</docAuthor>
+               <date when="2022-09-28T22:57:00-05:00">September 28, 2022 | 10:57pm EDT</date>
+            </byline>
+            <p>The hiring of Kevin D’Arco, the first senior associate dean of international
+               students, marks a shift towards more resources, advocacy and opportunity in the Duke
+               International Student Center.</p>
+            <p>The DISC began the year with some rebranding: a new location, new leadership and a
+               new name, with the goal of building new infrastructure to better support
+               international students before they get to campus and through their time at Duke.</p>
+            <p>“We’re hoping to build on the legacy of the International House,” D’Arco said. “It
+               has done a lot to support international students for a generation of international
+               students and I think it’s exciting to help build it forward.”</p>
+            <p>Before Duke, D’Arco spent 11 years abroad in various leadership positions at the
+               University of Utah Asia Campus in South Korea and Carnegie Mellon University’s campus
+               in Qatar, supporting international students and student leadership. He joined Duke in
+               fall 2021 as the director of student involvement but transitioned to his current
+               position in March 2022.</p>
+            <p>“Kevin’s role actually arose out of student advocacy,” said junior Annie Cui,
+               director of international policy and outreach for Duke Student Government. “He is
+               indeed very important, having this representative at the administrative level.”</p>
+            <p>In addition to the change in leadership, DISC, formally known as the International
+               House, or I-House, relocated this past summer. The center, which used to be located
+               at Epworth House on East Campus, is now at Smith Warehouse.</p>
+            <p>The change in name from I-House to Duke International Student Center also sums up the
+               new focus of the organization.</p>
+            <p>“What name best represents what we aspire to be when supporting students? One of the
+               things we’re trying to do is represent students with international identities and be
+               a center for that,” D’Arco said.</p>
+            <p>One of the major additions to the opportunities for students available at the DISC is
+               an International Student Advisory Board for both graduate and undergraduate students.
+               The board is meant to organize and improve student advocacy for international
+               students. Before D’Arco took over as director, I-House was frequently
+               short-staffed.</p>
+            <p>“They didn’t really have time to put together the advisory board and a lot of it were
+               students’ own initiatives,” Cui said.</p>
+            <p>Students have held the DSG cabinet position of Director of International Policy and
+               Outreach or organized individual initiatives, such as the creation of an
+               international “Blue Book,” led by Cui.</p>
+            <p>The board will be the first centralized organization of its kind, D’Arco said.</p>
+            <p>However, there are still several challenges the Center faces in the coming year.
+               While the location change makes it more accessible for the graduate population and
+               upperclassmen based on West Campus, Smith Warehouse can still be a difficult location
+               to access.</p>
+            <p>“It would be nice if we could have a West Campus office, just because Smith Warehouse
+               is really far away,” Cui said. “From my personal experiences, it can be a big hassle
+               to get to.”</p>
+            <p>One benefit of the new location, however, is proximity to Duke Visa Services, which
+               must be accessed by every student with a foreign visa. Additionally, with the new
+               QuadEx model, programming can occur in the dorm communities which expands locations
+               beyond the physical DISC space.</p>
+            <p>An additional challenge for DISC is best serving the entire international community,
+               including both graduate and undergraduate populations.</p>
+            <p>“I think there is a lot of excitement around the potential of what we can do for
+               international students,” D’Arco said. “I think the breadth of programming and breadth
+               of support structures is one of the biggest challenges.”</p>
+            <p>The former House and the current Center has supported international students even
+               before they arrived on campus. The International House Orientation Peers
+               organization, co-led by junior Axelle Miel, pairs international students with
+               upperclassmen to help get acclimated to campus.</p>
+            <p>This programming among many others, such as the Spanish Conversation Club, English
+               Conversation Club and International Orientation, is being continued this year.
+               However, the leadership for this year is hoping to build on past foundations and
+               establish new resources for international students at Duke in coming years.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
